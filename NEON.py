@@ -1,3 +1,3 @@
-import neon
-from neon import Main
+import NEON
+from NEON import Main
 Main.checkin_neon()
